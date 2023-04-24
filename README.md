@@ -18,6 +18,8 @@ The website template design is called *Leon* and it's a free HTML agency templat
   
 The website is *Fully Responsive*.
 
+A Tab Icon Is Added.
+
 Have a Sneak Peak ==>
 [**Leon | Template One**](https://mahmoud-k24.github.io/HTML_And_CSS_Template_One/)
 
