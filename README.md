@@ -1,5 +1,5 @@
 # The First HTML & CSS Website Template - Leon
-This is my first HTML and CSS website template I've builded.
+This is my first HTML and CSS website template I've built.
 
 The website template design is called *Leon* and it's a free HTML agency template made by [Graphberry](https://www.graphberry.com/item/leon-html-agency-template).
 
